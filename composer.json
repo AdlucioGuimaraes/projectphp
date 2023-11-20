@@ -1,0 +1,18 @@
+{
+    "name": "adlucioguimaraes/projectphp",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adlucio Guimarães",
+            "email": "adluciodev@gmail.com"
+        }
+    ],
+    "require": {
+        "lib-openssl": "1.1.1.17",
+        "league/plates": "^3.5"
+    }
+}
