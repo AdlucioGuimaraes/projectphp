@@ -1,3 +1,3 @@
 # projectphp
 
-Projeto em andamento, projeto Backend em PHP, em breve mais detalhes 
+Projeto em andamento, projeto Backend em PHP, em breve mais detalhes.
